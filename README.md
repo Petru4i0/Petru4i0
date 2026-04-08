@@ -36,9 +36,38 @@ The success of my projects is the result of effective management of this tandem.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Petru4i0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Petru4i0&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" />
+   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Petru4i0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petru4i0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petru4i0&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Langs" />
+</div>
+
+### 🏆 Мои достижения
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Petru4i0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=2" alt="Trophies" />
+</div>
+
+---
+
+### 💼 Ключевые проекты
+
+<div align="center">
+  <a href="https://github.com/Petru4i0/Optimus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petru4i0&repo=Optimus&theme=tokyonight&hide_border=true" alt="Optimus" />
+  </a>
+</div>
+
+---
+
+### 💰 Инвестиции и Поддержка
+
+<div align="center">
+  <a href="https://boosty.to/ТВОЯ_ССЫЛКА">
+    <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty Donate">
+  </a>
+  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ_ИЛИ_ССЫЛКА_НА_КОШЕЛЕК">
+    <img src="https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge&logo=tether" alt="Crypto Donate">
+  </a>
 </div>
