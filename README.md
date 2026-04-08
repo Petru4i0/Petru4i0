@@ -60,14 +60,3 @@ The success of my projects is the result of effective management of this tandem.
 </div>
 
 ---
-
-### 💰 Инвестиции и Поддержка
-
-<div align="center">
-  <a href="https://boosty.to/ТВОЯ_ССЫЛКА">
-    <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty Donate">
-  </a>
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ_ИЛИ_ССЫЛКА_НА_КОШЕЛЕК">
-    <img src="https://img.shields.io/badge/Donate-Crypto-blue?style=for-the-badge&logo=tether" alt="Crypto Donate">
-  </a>
-</div>
